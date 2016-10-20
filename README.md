@@ -1,0 +1,2 @@
+# qtClone
+clone of qtCsound
